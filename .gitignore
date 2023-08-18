@@ -17,4 +17,4 @@ venv/
 .idea/*
 *.iml
 
-demo/
+demo/*.py
