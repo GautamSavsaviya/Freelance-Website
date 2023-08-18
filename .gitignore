@@ -1,0 +1,13 @@
+### Python ###
+*.pyc
+__pycache__/
+
+### Django ###
+*.log
+*.pot
+local_settings.py
+.env
+db.sqlite3
+
+### Virtualenv ###
+venv/
