@@ -16,3 +16,5 @@ venv/
 ### other files ###
 .idea/*
 *.iml
+
+demo/
