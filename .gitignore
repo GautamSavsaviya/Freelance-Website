@@ -14,7 +14,4 @@ venv/
 
 
 ### other files ###
-.idea/*
-*.iml
-
-demo/*.py
+.idea/
